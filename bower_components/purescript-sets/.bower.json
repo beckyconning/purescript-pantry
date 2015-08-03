@@ -1,0 +1,37 @@
+{
+  "name": "purescript-sets",
+  "homepage": "https://github.com/purescript/purescript-sets",
+  "authors": [
+    "Phil Freeman <paf31@cantab.net>"
+  ],
+  "keywords": [
+    "purescript"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/purescript/purescript-sets.git"
+  },
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "node_modules",
+    "output",
+    "test",
+    "bower.json",
+    "package.json"
+  ],
+  "dependencies": {
+    "purescript-maps": "^0.4.0"
+  },
+  "version": "0.4.2",
+  "_release": "0.4.2",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.4.2",
+    "commit": "b2dc7b12ebe0d44674f044ee90759db6a6ccf48e"
+  },
+  "_source": "git://github.com/purescript/purescript-sets.git",
+  "_target": "~0.4.0",
+  "_originalSource": "purescript-sets"
+}

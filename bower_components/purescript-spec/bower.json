@@ -1,0 +1,19 @@
+{
+  "name": "purescript-spec",
+  "version": "0.7.0",
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "test",
+    "externs",
+    "tmp",
+    "output",
+    "tools"
+  ],
+  "dependencies": {
+    "purescript-strings": "~0.5.3",
+    "purescript-console": "~0.1.0",
+    "purescript-aff": "~0.11.0",
+    "purescript-exceptions": "~0.3.0"
+  }
+}

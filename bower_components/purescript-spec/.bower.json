@@ -1,0 +1,30 @@
+{
+  "name": "purescript-spec",
+  "version": "0.7.0",
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "test",
+    "externs",
+    "tmp",
+    "output",
+    "tools"
+  ],
+  "dependencies": {
+    "purescript-strings": "~0.5.3",
+    "purescript-console": "~0.1.0",
+    "purescript-aff": "~0.11.0",
+    "purescript-exceptions": "~0.3.0"
+  },
+  "homepage": "https://github.com/owickstrom/purescript-spec",
+  "_release": "0.7.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.7.0",
+    "commit": "2d23dd3219db6aa97abfd153ce4a35914ccfa332"
+  },
+  "_source": "git://github.com/owickstrom/purescript-spec.git",
+  "_target": "~0.7.0",
+  "_originalSource": "purescript-spec",
+  "_direct": true
+}
